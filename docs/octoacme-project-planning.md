@@ -41,3 +41,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Team roles confirmed using the [Role Engagement Matrix](role-engagement-matrix.md); RACI for key activities documented
+
+> **Cross-functional roles:** When populating the team and backlog, refer to the [Role Engagement Matrix](role-engagement-matrix.md) to ensure UX Designers, Security Leads, Customer Support, and Data Analysts are engaged at the right stages. Use the [Role Engagement Checklists](role-engagement-checklist.md) before each major milestone.

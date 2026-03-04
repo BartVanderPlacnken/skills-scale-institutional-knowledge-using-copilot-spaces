@@ -29,12 +29,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+> **Tip:** Use the [Role Engagement Matrix](role-engagement-matrix.md) to identify who should be Responsible, Accountable, Consulted, or Informed at each stage, and populate the *Proposed team / roles* field above accordingly.
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Complete the [Role Engagement — Initiation Checklist](role-engagement-checklist.md#initiation-checklist) to confirm all cross-functional roles are engaged
 
 ## Decision Gate
 Move to planning when:
